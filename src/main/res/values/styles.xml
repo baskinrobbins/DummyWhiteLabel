@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="WLTheme">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="WLTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="WLPrimaryColor">@color/Red</item>
+        <item name="WLSecondaryColor">@color/Blue</item>
+    </style>
+
+
+</resources>
